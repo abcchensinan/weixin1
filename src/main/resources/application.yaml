@@ -1,0 +1,6 @@
+spring.datasource:
+   
+   url: jdbc:mysql://127.0.0.1:3306/csn?useSSL=false&serverTimezone=CST&allowPublicKeytrieval=true
+   username: root
+   password: root
+server.port: 8080
